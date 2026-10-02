@@ -1,0 +1,51 @@
+export const INTERESTS = [
+  "Finance & investing",
+  "Consulting",
+  "Entrepreneurship",
+  "Accounting",
+  "Marketing",
+  "Human resources",
+  "Technology & AI",
+  "Real estate",
+  "Sales",
+  "Supply chain",
+  "Insurance & risk",
+  "Sports & entertainment",
+  "Social impact",
+  "Faith & leadership",
+  "Community",
+  "Professional development",
+] as const;
+export const GOALS = [
+  "Land an internship",
+  "Explore majors",
+  "Find my people",
+  "Build leadership",
+  "Serve Waco",
+  "Start or grow a venture",
+  "Hear from alumni",
+] as const;
+export const CATEGORIES = [
+  "Info session",
+  "Speaker",
+  "Workshop",
+  "Career",
+  "Competition",
+  "Social",
+  "Service",
+  "Recruiting",
+] as const;
+export const YEARS = ["First-year", "Sophomore", "Junior", "Senior", "Graduate"] as const;
+export const DEPARTMENTS = [
+  "Accounting",
+  "Finance",
+  "Entrepreneurship",
+  "Management",
+  "Marketing",
+  "MIS",
+  "Economics",
+  "Supply Chain",
+  "Real Estate",
+  "Insurance",
+  "Any major",
+] as const;
